@@ -2,6 +2,8 @@
 #Mystery Texts
 #October 5, 2020
 
+#This code reveals the meaning of a "mystery" text using ceasar shift on the text repeatedly until the user can read it. 
+#Results:
 #The first text is a list of students in our class, with a full stop between their first and last names.
 #The second text is from "The Argument Sketch" on MontyPython.net.
 #The third text is from the T.V. show, Dr. Who.
